@@ -7,7 +7,6 @@ import time
 max_results_per_city = 5
 city_set = ['Raleigh','Boston','Portland', 'San+Diego', 'Dallas', 'Denver', 'Hartford', 'Atlanta']
 columns = ["city", "job_title", "company_name", "location", "summary", "rating"]
-# columns = ["city", "job_title", "company_name","location", "summary", "salary"]
 sample_df = pd.DataFrame(columns = columns)
 
 print('starting')
