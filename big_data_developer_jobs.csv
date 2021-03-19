@@ -1,0 +1,122 @@
+,city,job_title,company_name,location,summary,rating
+1,Raleigh,Jr. Big Data Developer,Enhance IT,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management.",3.1
+2,Raleigh,HCS IT Data & Interoperative Developer - Epic Clarity Reporting - IT Analytics,UNC Health Care,"Morrisville, NC 27560",The developer will support reporting for inpatient and hospital quality from Epic EHR.,3.9
+3,Raleigh,Informatica Developer,Infosys Limited,"Raleigh, NC",Experience in preparing test scripts and test cases to validate data and maintaining data quality.,3.9
+4,Raleigh,AbInitio Developer,Infosys Limited,"Raleigh, NC",Experience in preparing test scripts and test cases to validate data and maintaining data quality.,3.9
+5,Raleigh,Big Data Developer,Credit Suisse,N/A,"Build and optimize ‘big data’ data pipelines, architectures and data sets.",3.9
+6,Raleigh,Data Architect,Onward Search,"Raleigh, NC","Participate in Data Governance Council with the objective of continuing to improve data quality, data availability, data security, and data maturity.",3.9
+7,Raleigh,Senior Data Engineer/Developer,Lenora Systems Inc,N/A,Deeper analysis to build data processing framework (Managed data layer).,N/A
+8,Raleigh,Data Analyst,TrialCard,N/A,"Understanding of dimensional data modeling concepts, as well as data warehousing design highly desirable.",3.3
+9,Raleigh,Data Scientist,Peraton,N/A,"Create data mining architectures/models/protocols, statistical reporting, and data analysis methodologies to identify trends in large data sets.",3.3
+10,Raleigh,Client Success Manager & Strategist,Exit Intelligence,N/A,"Proactive analysis of qualitative/quantitative data, and turning that data into strategic action.",N/A
+11,Raleigh,UX Research Intern,Lenovo,N/A,Detail-oriented with the ability to be pragmatic and keep the ‘big picture’ in mind.,3.9
+12,Raleigh,Data Engineer- 100% Remote,Advanced Tech Placement,N/A,"In this role you will work closely with our software developers, architects, data analysts and data scientists on data initiatives and services.",N/A
+13,Raleigh,Data Analyst/Programmer,RTI International,N/A,Organize data and construct analytic datasets from complex data sources.,3.7
+14,Raleigh,Experienced Data Scientist,Itron,N/A,Responsible for completing predictive data analysis.,3.8
+15,Raleigh,Data Architect,Random Bit,N/A,Transactional data store data modelling design using relational and document data patterns.,N/A
+16,Boston,Jr. Big Data Developer,Enhance IT,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management.",3.1
+17,Boston,Technical Product Manager,InsideTracker ( Segterra ),"Cambridge, MA","Our expert system matches the most relevant, science-based recommendations to each individual based on blood data, DNA data and demographics, as well as self…",N/A
+18,Boston,Spark Scala Big Data Software Engineers - junior to Director - deep pockets,The Bivium Group,Massachusetts,"MUST HAVE Spark/Scala production experience AND have worked on big data, ai, nlp or healthcare analytics.",N/A
+19,Boston,Big Data Developer,Atos,N/A,"Strong understanding of the internals of Spark and Hadoop e.g. Data Frame, DAG, data partition and distribution, named node limitations, and tuning.",3.5
+20,Boston,Sr. Big Data Developer,IQVIA,N/A,Investigate data processing issues and make recommendations to resolve.,3.8
+21,Boston,Big Data Sr. Software Developer,AIR,N/A,Good knowledge of AWS data platform like Aurora/Redshift/RDS.,3.4
+22,Boston,Data Scientist,Flipside Crypto,N/A,"Experience working with product teams, developers, and data engineers is a plus.",N/A
+23,Boston,"Sr. Software Application Developer, Big Data",PlaceIQ,N/A,"We love building regression models, classification algorithms, data visualizations, and geo-spatial clustering, within our location-data platform, which…",3.9
+24,Boston,Data Architecture Consultant,Accenture,N/A,Ensure test data conforms to data security requirements.,4.0
+25,Boston,Data Engineer,"Commonwealth Equity Services, Inc.",N/A,Fulfilling data requests when the data elements are not yet built in the data warehouse.,N/A
+26,Boston,Product Owner,BlueConic,N/A,"BlueConic is the market-leading customer data platform, which gives marketers the power to liberate their data and use it to improve marketing outcomes.",N/A
+27,Boston,"Senior Specialist, SQL BI Developer",BNY Mellon,N/A,Acts as a mentor to junior level developers.,3.5
+28,Boston,"AML Technology: Application Developer - Big Data, AVP",State Street,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies.",3.5
+29,Boston,Oracle Business Intelligence Developer,SBLI,"Woburn, MA 01801","Incumbent is responsible for the design, development and programing of systems to consolidate and analyze data from multiple internal sources and to integrate…",4.0
+30,Boston,Big Data Developer (Azure) - Deloitte - (Remote / Contract),Experfy,"Boston, MA",Design big data batch processing and interactive solutions.,N/A
+31,Portland,Jr. Big Data Developer,Enhance IT,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management.",3.1
+32,Portland,Data Engineering Manager,Ursus,"Portland, OR 97209 (Pearl District area)",There are about 8 big data projects that he/she will have to oversee.,4.9
+33,Portland,Lead Data Engineer,Tech Talent Link,"Beaverton, OR 97008 (Greenway area)",Experience leading a technical data team.,N/A
+34,Portland,Cloud Support Engineer I - Big Data,"Amazon Web Services, Inc.",N/A,Experience utilizing data analysis techniques such as quantitative or qualitative analysis.,3.5
+35,Portland,"Senior Scientist, Data Science",XPO Logistics,N/A,Help support data consumers to ensure they have reliable access to trusted data.,3.2
+36,Portland,"Associate, Low Code Developer",KPMG,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world.",4.0
+37,Portland,Senior Big Data Engineer,VanderHouwen,"Beaverton, OR","The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…",3.8
+38,Portland,Data Engineering Developer,Axian,N/A,You will be responsible for developing all data solutions as designed by the Data Engineering Tech Lead.,N/A
+39,Portland,Data Scientist,Fresh Consulting,N/A,Develop modeling and data processes in Python.,3.5
+40,Portland,Machine Learning Engineer,Tacoma Public Utilities,N/A,Work with data engineers and solutions architects to build and optimize data pipelines for machine learning and data science solution processing.,4.1
+41,Portland,Software Engineer II - Frontend,AT&T,N/A,"Some knowledge of Computer Science fundamentals with regards to data structures, algorithms, time complexity, etc.",3.7
+42,Portland,"Front End Developer (Oregon, Silicon Valley or Remote)","Rulai, Inc.",N/A,"Deep understanding of modern frontend JavaScript frameworks, proficient with vue.js is a big plus.",N/A
+43,Portland,Data Engineering Technical Lead,Axian,N/A,"You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…",N/A
+44,Portland,Information Architect,FINE,N/A,Perform basic data modeling and mapping and working with our technical team as needed to validate.,4.1
+45,Portland,"Data Analytics Manager, Marketplace Operations Analytics",Nike,N/A,"You will work in a product squad model led by a product manager and consisting of data analysts, engineers and visualization developers.",4.1
+46,San+Diego,Jr. Big Data Developer,Enhance IT,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management.",3.1
+47,San+Diego,Intern - Information Security: Application Security,Teradata,"San Diego, CA",Design and implement solutions to integrate security tooling into the software development lifecycle Build proof of concept code to help developers understand…,3.8
+48,San+Diego,Big Data SME,Enhance IT,California,"Hands on experience in big data technologies including Scala or Spark, Hadoop, Hive, HDFS.",3.1
+49,San+Diego,Data Integration Developer,Reliant Funding,"San Diego, CA 92121 (University City area)",Optimizes data warehouse performance by addressing any data conflicts that arise and keeping data definitions up to date.,3.8
+50,San+Diego,"Software Engineer 2, Big Data",Intuit,"San Diego, CA 92101",Design and develop big data and real-time analytics solutions using industry standard technologies.,4.2
+51,San+Diego,Data Visualization Developer,1POINT21 Interactive,N/A,2+ years of experience as a data scientist or data visualization specialist.,N/A
+52,San+Diego,Data Engineer,CyberCoders,"San Diego, CA 92123","Continue to enhance data systems to efficiently intake, transform, and store massive data sets.",3.3
+53,San+Diego,Sr BI Developer,"NuVasive, Inc.",N/A,Help with design of data marts & data models by integrating data sources from desperate systems.,3.4
+54,San+Diego,Sr. ETL Developer,"NuVasive, Inc.",N/A,Implement data virtualization / data integration approaches to help with data discovery/ data prep activities for data scientists and data stewards.,3.4
+55,San+Diego,"Full Stack .NET Desktop Software Developer (C#, WPF, Azure)",Power Line Reporting,N/A,Most of our products are 'factory' type applications which convert and manipulate data from one format to another.,N/A
+56,San+Diego,Machine Learning Developer,Realty Income Corporation,N/A,"Understanding of data structures, data modeling and software architecture.",4.3
+57,San+Diego,EHR Developer,San Ysidro Health,N/A,"Knowledge of Electronic Health Records Systems, Health Care Specific Data Interface standards, and health information exchange technologies a big plus.",3.7
+58,San+Diego,Senior Big Data Engineer,Lytx,N/A,"Mentor and coach junior engineers, software developers, and data analysts.",3.7
+59,San+Diego,Full Stack Software Developer,Chatmeter,N/A,"Established in 2009, Chatmeter now analyzes billions of customer reviews, social media mentions, and sentiments from hundreds of sources to help businesses keep…",3.4
+60,San+Diego,Data Engineer,Guild Mortgage Company LLC,N/A,"Responsibilities include supporting software developer, database architects, data analysts and data scientists on various data initiatives as well as ensuring…",N/A
+61,Dallas,Big Data/Spark Developer,Infosys Limited,"Dallas, TX","Support ETL developers by providing technical assistance, troubleshooting and alternative development solutions.",3.9
+62,Dallas,Jr. Big Data Developer,Enhance IT,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management.",3.1
+63,Dallas,Data Architect II,GM Financial,"Arlington, TX 76014 (East area)","Perform a variety of in-depth data analysis, data modeling and data administration tasks on complicated datasets with potentially complex data integration…",3.6
+64,Dallas,Big Data Developer,First Soft Solutions [ Direct],N/A,To be able to work with cloud computing environments Gather and process raw data at scale including writing scripts web scraping calling APIs write SQL queries…,N/A
+65,Dallas,Big Data Developer,State Farm,N/A,Work with datasets containing mixes of structured and unstructured data.,3.7
+66,Dallas,Big Data Engineer,"JPMorgan Chase Bank, N.A.",N/A,Work with a team of engineers and developers to deliver against the overall technology data strategy.,3.9
+67,Dallas,Sr. Big Data Developer,MRoads,N/A,Excellent systems and data analysis skills.,3.2
+68,Dallas,ETL Developer (SSIS),"JPMorgan Chase Bank, N.A.",N/A,"Expertise in data, application and infrastructure architecture disciplines.",3.9
+69,Dallas,"Corporate Functions, Information Systems & Technology, Early Career Development Program (ECDP)",Apple,N/A,"Programming knowledge in at least one of the following areas: Server side development (Java), Web development (JavaScript, HTML, CSS3) or iOS development …",4.2
+70,Dallas,Senior Big Data Engineer,TCS,N/A,Must be able to perform performance optimization of existing data pipelines by identifying bottlenecks and resolving them.,3.8
+71,Dallas,SQL Developer,"MatchSource, LLC","Dallas, TX",Knowledge and experience with performance and scalability tuning of big data analytics solutions.,N/A
+72,Dallas,"Data Architect,BIG DATA HADOOP DEVELOPER",Era,N/A,Broad knowledge of various big data technologies.,3.5
+73,Dallas,Entry Level Software Engineer,Toyota Connected North America,N/A,"Toyota Connected looks for Software Engineers that will solve complex problems and work alongside talented software engineers, data scientists, and designers…",N/A
+74,Dallas,Cloud Support Associate Intern (Summer 2021),"Amazon Web Services, Inc.",N/A,"Pursing a technical bachelors degree in computer science, computer engineering, information technology, or related fields with a graduation date of Summer 2022.",3.5
+75,Dallas,Data Engineer - Automation and Analytics,Techorbit Inc.,N/A,"Create and review technical and user-focused documentation for data solutions (data models, data dictionaries, business glossaries, process and data flows,…",N/A
+76,Denver,Tableau Admin/Developer,CORHIO,"Denver, CO 80246 (Southeastern Denver area)","Demonstrated experience in working with relational (and/or hierarchical), big data databases (Mongo/SQL).",4.3
+77,Denver,Jr. Big Data Developer,Enhance IT,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management.",3.1
+78,Denver,Senior Front End Developer - Direct Hire,The Doyle Group,"Denver, CO 80202 (Union Station area)","They use computer vision in tandem with custom built, ultra-precise, proprietary models to process customer demographics and sentiment while capturing big data…",N/A
+79,Denver,Jr.-Mid Spark or Python Developer W/ Strong SQL,"Yoh, A Day & Zimmermann Company","Morrison, CO 80465","5 years of experience delivering data solutions on a variety of data warehousing, big data and cloud data platforms.",3.7
+80,Denver,Full-Stack Software Developer,Outsourced Ad Ops (OAO) - www.adops.com,Colorado,"Backend experience in technologies such as Vue and Python, and frameworks such as Flask is a big plus.",N/A
+81,Denver,Big Data Developer,ClientSolv Technologies,N/A,"Gather and understand data requirements, work in the team to achieve high quality data ingestion and build systems that can process the data, transform the data…",4.0
+82,Denver,Data Engineering Internship,"VIZIO, Inc.",N/A,"This individual will support our software developers, data analysts, and data scientists on data initiatives and will ensure optimal data delivery.",N/A
+83,Denver,Analytics Developer Associate Business Intelligence,UCHealth,N/A,Designs basic data queries based on customer inquiries/needs.,3.7
+84,Denver,Big Data Developer,Imagination Software Technologies,N/A,Experience building data warehouse applications.,N/A
+85,Denver,Testbed & Simulation Model Developer,LOCKHEED MARTIN CORPORATION,N/A,Experience working with analyzing large scale data from a variety of sources and applying statistical methods.,4.0
+86,Denver,"Product Manager, Data Warehouse - MNGi",Digital First Media,N/A,"Familiar working with data intake, normalization, querying and analytics tools as well as the surrounded data jargon.",2.8
+87,Denver,Senior Software Developer (Big Data engineer (odc_prod-dev_us),Oracle,N/A,"Experience with big data tools (Oracle Exadata, Spark, Hive, etc).",3.8
+88,Denver,Software Developer (Early-Career),BOEING,N/A,"Interfaces and data integration, XML, XSD.",4.0
+89,Denver,Analytics Developer,UCHealth,N/A,"Extracts, validates and analyzes desired data.",3.7
+90,Denver,"Product Manager, Data Warehouse - MNGi",Adtaxi,N/A,"Familiar working with data intake, normalization, querying and analytics tools as well as the surrounded data jargon.",3.4
+91,Denver,Sr. Data Warehouse Developer,ClientSolv Technologies,"Greenwood Village, CO 80111","Minimum of 10 years of experience delivering data solutions on a variety of data warehousing, big data and cloud data platforms.",4.0
+92,Hartford,ETL Developer,"The Travelers Companies, Inc.","Hartford, CT 06101 (North Meadows area)","Incorporate core data management competencies - data governance, data security, data quality.",3.7
+93,Hartford,Jr. Big Data Developer,Enhance IT,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management.",3.1
+94,Hartford,"2VP, Architecture ( Data & Analytics, Cloud, AI )","The Travelers Companies, Inc.","Hartford, CT 06101 (North Meadows area)",Travelers Business Insurance is looking for a 2VP of Architecture to lead data and information architecture within the BI Data & Analytics Value Stream.,3.7
+95,Hartford,Hiring Event-Big Data/Hadoop developers,Infosys Limited,"Hartford, CT",Experience in preparing test scripts and test cases to validate data and maintaining data quality.,3.9
+96,Hartford,DataStage ETL Developer (REMOTE),CareCentrix,"Hartford, CT 06103 (Downtown area)",Acquire data from primary or secondary data sources.,2.8
+97,Hartford,Big Data Developer,Cognizant Technology Solutions,N/A,Experience in developing stored Procedures/writing Queries to analyze and transform data.,3.9
+98,Hartford,Spark Scala Big Data Software Engineers - junior to Director - deep pockets,The Bivium Group,Connecticut,"MUST HAVE Spark/Scala production experience AND have worked on big data, ai, nlp or healthcare analytics.",N/A
+99,Hartford,Big Data Developer,GSS Infotech,N/A,"Design, build and maintain data pipelines in Big data using Hadoop & Spark.",3.5
+100,Hartford,Data Engineer Analyst / Developer,Travelers,N/A,"Understand core data management competencies - data governance, data security, data quality.",3.7
+101,Hartford,Data Analyst,CapB InfoteK,N/A,Ability to develop data architectures - designing data flows that are aligned with customer information systems.,N/A
+102,Hartford,Software and Data Engineer - Telecommute,UnitedHealth Group,N/A,"Building and supporting required infrastructure for optimal extraction, transformation and loading of data from various data sources.",3.7
+103,Hartford,Hadoop Developer,Cognizant Technology Solutions,N/A,Perform sampling of data to understand the character/ quality of the data (project dependent in the absence of data analyst or designer).,3.9
+104,Hartford,Salesforce Data Analyst - Remote,Travelers,N/A,"Incorporate core data management competencies – data governance, data security, data quality.",3.7
+105,Hartford,"Big Data Business & Integration Architecture Manager – Hartford, CT",Accenture,N/A,S/he will perform the following duties: mentor and train new resources; and ; communicate progress and status for application development and application system…,4.0
+106,Hartford,Genomics Education Fellow,The Jackson Laboratory,N/A,"PhD in an area of biomedical research, with subject matter expertise in cancer genetics, genomics, computational biology, and big data analysis; including a…",4.0
+107,Atlanta,Jr. Big Data Developer,Enhance IT,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management.",3.1
+108,Atlanta,Developer5,TCS,N/A,"Create Source to Target mappings, Data Dictionaries, Data Models etc.",3.8
+109,Atlanta,Sr. Big Data Developer (HBASE / Hadoop / Spark / Scala),Capgemini,N/A,Experience with integration of data from multiple data sources.,3.8
+110,Atlanta,Big Data/Teradata developer,Lantern Info,N/A,"Experience in Design and build of the infrastructure for data extraction, preparation, and loading of data from a variety of sources using technology such as…",N/A
+111,Atlanta,"Data Analyst, Retail Media",Home Depot / THD,N/A,"10%- Collaborate with stakeholders, business partners, colleagues, developers, and business analysts to deliver high quality analytics solutions.",3.8
+112,Atlanta,Software Developer - Big Data Development,State Farm,N/A,We offer competitive benefits and pay with the potential for an annual financial award based on both individual and enterprise performance.,3.7
+113,Atlanta,Junior Data Engineer,Invesco,N/A,Experience in data warehousing concepts.,3.9
+114,Atlanta,Big Data SME,Enhance IT,N/A,"Hands on experience in big data technologies including Scala or Spark, Hadoop, Hive, HDFS.",3.1
+115,Atlanta,Data Engineer,Expedite Technologies Solutions,N/A,Guide other developers in the team.,N/A
+116,Atlanta,Instructional Designer,Microsoft,N/A,Comfortability with data and data-informed experimentation.,4.2
+117,Atlanta,Entry Level Hadoop Developer,Core Soft Tech,N/A,"We give a quick online orientation on Hadoop Course Content Introduction to Hadoop, Introduction to Big Data Hadoop Distributed File System (HDFS), Map Reduce,…",N/A
+118,Atlanta,Data Scientist,Cypress.io,N/A,Experience with data modeling and feature store tools.,N/A
+119,Atlanta,"Sr. Software Application Developer, Big Data",PlaceIQ,N/A,"We love building regression models, classification algorithms, data visualizations, and geo-spatial clustering, within our location-data platform, which…",3.9
+120,Atlanta,Data Engineering Intern,Assurant,N/A,"Knowledge of modern enterprise data architectures, design patterns, and data toolsets and the ability to apply them.",3.5
+121,Atlanta,Web Application Developer Intern - C#/SQL,SimplePart,N/A,"This is a hands-on position, working in short (two week) sprints building big, meaningful things with a direct, immediate and visible impact.",2.3
