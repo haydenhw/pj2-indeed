@@ -1,0 +1,123 @@
+,city,job_title,company_name,location,summary,rating
+1,Raleigh,Senior Data Center Engineer (Automation),Altran,"Morrisville, NC 27560",To move to an Infrastructure as Code method for our data centers.,N/A
+2,Raleigh,Data Engineer,ProVantage Corporate Solutions,"Raleigh, NC",Design and consult on a big data project for our new product.,3.2
+3,Raleigh,Data Engineer,Piper Companies,N/A,"Introduce and maintain data platforms, data governance and data security capabilities and documentation including establishing roadmaps.",4.5
+4,Raleigh,Data Engineer - Data Warehouse - Entry Level,Pearson,N/A,"Building required data pipelines for optimal extraction, transformation, and loading of data from various data sources using Cloud and SQL technologies and…",3.7
+5,Raleigh,Big Data Engineer,DISYS,"Cary, NC","Core development experience in Java, with significant exposure to Scala; proficiency in SQL (PL/SQL) and data modelling.",3.5
+6,Raleigh,Data Engineer- 100% Remote,Advanced Tech Placement,N/A,"The ideal candidate is an experienced data engineer with strong Python skills, who enjoys optimizing data systems and building internal data pipelines/APIs from…",N/A
+7,Raleigh,"Data Ops Engineer, ENTRY LEVEL",Pearson,N/A,"Develop and maintain operational administration solutions, system/data backup, disaster recovery, and security/performance monitoring.",3.7
+8,Raleigh,Data Engineer,PennyMac,N/A,"The Data Engineer will support database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is…",3.0
+9,Raleigh,Data Engineer Intern,AlignTech,N/A,"The Data Engineer intern will draw upon the practice of data analysis, data management methodologies, data mining, pattern recognition, data modeling, and…",3.8
+10,Raleigh,Data Engineer,IBM,N/A,Perform data analysis to validate data quality.,3.9
+11,Raleigh,Data Engineer,Carimus,N/A,"3+ years experience in data engineering, creating data solutions.",N/A
+12,Raleigh,Data Engineer,VICTRA,N/A,"Define and evolve Victra's data movement, data access, MDM, and data visualization strategies.",2.7
+13,Raleigh,Cloud Data Services Solutions Engineer,NetApp,N/A,The Cloud Data Services SE position is a pre-sales role supporting the sales of the CDS portfolio.,4.1
+14,Raleigh,Data Center Engineer,Zachary Piper Solutions,N/A,"Keywords: Agile, Data, cloud, Systems Engineer, Cloud engineer, Top Secret, SCI, NIST 800-53, CISSP, Security+, CISA, GSEC, CAP, SCNA, SCNP, SSCP, GSLC, GSE,…",4.0
+15,Raleigh,Senior/Principal Data Engineer,"Insight Enterprises, Inc.",N/A,Design and build modern data pipelines and data streams.,3.6
+16,Boston,Data Engineer,Atlantic Broadband,"Quincy, MA 02169","Ability to build and optimize data sets, 'big data' data pipelines and architectures.",3.3
+17,Boston,Data Science Engineer - Pharma Manufacturig Sci,Takeda Pharmaceuticals,N/A,Experience working with automated data extraction.,3.8
+18,Boston,Entry Level Data Engineer (AI Applications),IBM,N/A,Working with others to design new ways of ingesting data that makes it faster and easier.,3.9
+19,Boston,Data Engineer,Intone Networks,N/A,MUSTS: * 5+ years of in-cloud technologies including cloud databases and ETL tools * 2+ years of experience in building data pipeline with cloud ‘big data’…,4.2
+20,Boston,Data Engineer,Oxfam America,N/A,Design data integrations across constituent data platforms (CDPs) and reporting solutions.,N/A
+21,Boston,Data Engineer,"Zipcar, Inc.",N/A,"Create and maintain data models, data catalogs, and data security.",3.6
+22,Boston,Data Engineer,Uplight,N/A,Developing data pipelines to transform and process data between systems.,4.3
+23,Boston,Data Engineer (Collection),Recorded Future,N/A,"Build, improve, and take ownership of harvesters.",N/A
+24,Boston,Data Engineer (C2),Clarity Innovations,N/A,Experience with MPP data warehouses.,N/A
+25,Boston,"Data Engineer (EDW, Data Analytics Office)",Mass General Brigham(PHS),N/A,"Familiarity with data engineering, data governance and data quality principles.",3.9
+26,Boston,Data Engineer,"Commonwealth Equity Services, Inc.",N/A,Fulfilling data requests when the data elements are not yet built in the data warehouse.,N/A
+27,Boston,"Data Engineer, Health",Syneos Health Commercial Solutions,N/A,The communications research group at Syneos Health is looking for a data engineer with experience working with healthcare or media data sets.,3.9
+28,Boston,Clinical Data Engineer,ERT,N/A,"Architect data flows, sequence diagrams and data pipeline specifications for engineers to execute development of their components.",3.2
+29,Boston,Data Engineer,Recorded Future,N/A,Thoroughly understand the data we give to clients.,N/A
+30,Boston,"Python/SQL Data Engineer, Consultant - Applied Artificial Intelligence",Deloitte,N/A,"Implement large-scale data ecosystems including data management, governance and the integration of structured and unstructured data to generate insights…",4.0
+31,Portland,Data Engineer,Perfect Company,"Portland, OR",Work with 3rd-party data providers to implement data integrations.,N/A
+32,Portland,Data Engineer,North Highland,"Portland, OR","Experience with data modeling, data warehouse design, and building data marts and data pipelines.",3.5
+33,Portland,Data Engineer - Azure,OmniData Insights,"Portland, OR 97201 (Homestead area)","Execution of team-leading Solution Architect and Data Architect vision for client success, with Azure based data warehouse and business intelligence tools.",N/A
+34,Portland,Data Engineer,Gametime,"Portland, OR","Design and implement scalable data pipelines and data storage on AWS using Kinesis, Redshift, S3, and a Spark-based streaming architecture.",N/A
+35,Portland,Sr. Data Engineer,"BizTek People, Inc.","Portland, OR 97204 (Downtown area)","Design and implement data products and features in collaboration with product owners, data analysts, and business partners using Agile / Scrum methodology.",4.8
+36,Portland,Data Engineer,VanderHouwen,"Hillsboro, OR","Our client is seeking a Data Engineer for their team in Hillsboro, Oregon.",3.7
+37,Portland,Data Operations Engineer PSJH,Providence,N/A,Communicate with customers to discuss any issues with received data and help them identify and fix data issues.,3.9
+38,Portland,NextGen Data Engineer,BICP,N/A,NextGen Data Engineer will have at least 1-2 years experience with advanced SQL and Python experience with strong overall data wrangling skills.,N/A
+39,Portland,Data Analyst/Data Scientist Engineer (Portland / Remote) — Cascade Data Labs,Kin + Carta,N/A,Build data pipelines and products to help stakeholders make and execute data driven decisions.,N/A
+40,Portland,Data Engineer,Nectar Markets,N/A,Ensuring data reliability and accuracy by building processes and controls around data compilation and reporting.,3.4
+41,Portland,Senior Data Engineer,VanderHouwen,"Hillsboro, OR","Establishes database management systems, standards, guidelines and quality assurance for database deliverables, such as conceptual design, logical database,…",3.7
+42,Portland,Data Engineer,Slalom Consulting,N/A,4+ years of data engineering and/or data warehousing experience.,3.7
+43,Portland,Data Science Engineer,WorkBoard,N/A,Experience creating an Events framework to enable better data analytics.,N/A
+44,Portland,"Python/SQL Data Engineer, Consultant - Applied Artificial Intelligence",Deloitte,N/A,"Implement large-scale data ecosystems including data management, governance and the integration of structured and unstructured data to generate insights…",4.0
+45,Portland,Cloud Support Engineer I - Big Data,"Amazon Web Services, Inc.",N/A,Interact with leading engineers around the world.,3.5
+46,San+Diego,Data Engineer,Itility,"San Diego, CA","As Hadoop data engineer, you are responsible for the functional part of provisioning data - eg building data inserted pipelines and data connectors.",N/A
+47,San+Diego,"Software Engineer 2, Big Data",Intuit,"San Diego, CA 92101",Nothing_found,4.2
+48,San+Diego,"Staff Software Engineer, Big Data",Intuit,"San Diego, CA 92101",Nothing_found,4.2
+49,San+Diego,Data and Analytics - Release Train Engineer,ASML,"San Diego, CA 92127 (Rancho Bernardo area)","Technically savvy, strong focus on (big) data & analytics;",3.9
+50,San+Diego,JUNIOR Data Engineer,CCS Global Tech,N/A,"In this 3-month program, we prepare young professionals in high-demand technologies related to business intelligence and data analytics.",3.0
+51,San+Diego,Data Engineer,Sony Interactive Entertainment PlayStation,N/A,You will be expected to build a deep understanding of PlayStation data and help data consumers drive business value from the data.,3.7
+52,San+Diego,"Python/SQL Data Engineer, Consultant - Applied Artificial Intelligence",Deloitte,N/A,"Implement large-scale data ecosystems including data management, governance and the integration of structured and unstructured data to generate insights…",4.0
+53,San+Diego,Intern - Data Engineer,Teradata,N/A,Use educational background in data engineering and perform data mining analysis.,3.8
+54,San+Diego,Staff Data Engineer,Illumina,N/A,"Strong understanding of data, data security, overall governance on SEC/ FDA compliant data.",3.6
+55,San+Diego,Senior Data Engineer,AVID Center,N/A,"This full-time, exempt position receives a competitive salary, paid PTO and holidays, a comprehensive benefits package (which includes medical, dental, and…",4.0
+56,San+Diego,Data Engineer,Guild Mortgage Company LLC,N/A,Strong data governance skills to ensure highest quality of data is made available for data analysis and accuracy in reporting.,N/A
+57,San+Diego,Data Engineer ONLY W2 NO C2C,Park Computer Systems Inc,N/A,"Leads, coaches, mentors and inspires team of data, software, quality and operations engineers to effectively deliver data warehouse technology stack.",N/A
+58,San+Diego,Data Engineer,TCS,N/A,Analyze existing data repositories to identify and develop data mapping and business rules for data conversions and processing.,3.8
+59,San+Diego,Data Engineer,Slalom Consulting,N/A,"Proven experience with data warehousing, data ingestion, and data profiling.",3.7
+60,San+Diego,"Data Engineer, Analytics & Cognitive - Senior Consultant (SQL/Python)",Deloitte,N/A,2+ years of hands on experience with data core modernization and data ingestion.,4.0
+61,Dallas,Data Engineer,Capital One,"Plano, TX 75023","1+ year experience working on streaming data applications (Spark Streaming, Kafka, Kinesis, and Flink.",3.9
+62,Dallas,Principal Data Engineer,Capital One,"Plano, TX 75023","At least 4 years of enterprise data management, data warehousing or unstructured data environments.",3.9
+63,Dallas,Cloud/Data Center Engineer,NTT DATA Corporation,"Dallas, TX 75201","Perform public, private and data center migrations.",3.5
+64,Dallas,Master Data Engineer,Capital One,"Plano, TX 75023","3+ years in coding in data management, data warehousing or unstructured data environments.",3.9
+65,Dallas,Software Data Engineer - Python,Capital One,"Plano, TX 75023","1+ year experience working on streaming data applications (Spark Streaming, Kafka, Kinesis, and Flink.",3.9
+66,Dallas,Data Engineer,LOCKHEED MARTIN CORPORATION,N/A,"Collaborate with data architects, data scientists, data analysts, and system engineers to develop a solution across the entire data processing pipeline.",4.0
+67,Dallas,Data Engineer,McCarthy Building Co,N/A,Experience building data pipelines to ingest unstructured and streaming data.,4.1
+68,Dallas,"Entry-Level Data Positions (Data Engineer, Machine Learning & Visualization)",Citi,N/A,Knowledge of the principles of software engineering and data analytics.,3.9
+69,Dallas,Senior Data Engineer,mroads,N/A,"In depth knowledge about data warehousing (data acquisition, data management and data consumption) and Cloud data Platform ETL Design on assigned projects.",3.2
+70,Dallas,Data Engineer,Next Level Technology Inc.,N/A,Experience in SQL (ANSI)/PL-SQL.,N/A
+71,Dallas,Data Center Operations Engineer,Verizon,N/A,Strong knowledge of data center systems and electrical power.,3.9
+72,Dallas,Big Data Engineer,Cigniti Technologies,N/A,Understanding of process flows (e.g. how and when data is updated).,3.5
+73,Dallas,Big Data Support Engineer,"Amazon Web Services, Inc.",N/A,"As a Support Engineer, you will work closely with multiple data platform teams focussed on data engineering, analytics, orchestration, ETL tools to build highly…",3.5
+74,Dallas,Data Engineer,TCS,N/A,Performance & Cost optimization experience for data processing using PySprak on cloud infrastructure.,3.8
+75,Dallas,Data Engineer,GridironFB.com,N/A,"Participate in data reviews, data analysis meetings and automate key data processing functions.",N/A
+76,Dallas,Senior Data Analytics Engineer,Christus Health,"Irving, TX 75038 (Cottonwood area)","Individual must have extensive knowledge of designing and developing data pipelines and delivering advanced analytics, with open source Big Data processing…",3.8
+77,Dallas,Data Systems DevOps Engineer,Freddie Mac,"Dallas, TX 75201",Experience in big data systems.,3.8
+78,Denver,Junior Data Engineer,AimHire,"Denver, CO",Embed reporting and data visualizations within the application.,4.4
+79,Denver,Senior Data Engineer,Alto Pharmacy,"Denver, CO 80203 (Civic Center area)",Have experience implementing a data warehousing system.,3.2
+80,Denver,Data Engineer,TEKsystems,"Denver, CO 80012",At least 4 years of experience in SQL as a data engineer.,3.9
+81,Denver,Data Center Engineer I,"JPMorgan Chase Bank, N.A.",N/A,"Desire to develop a working knowledge of change management, corporate IT audit processes, IT risk management, technical problem resolution, operations systems…",3.9
+82,Denver,Data Engineer,LOCKHEED MARTIN CORPORATION,N/A,"Building data pipelines that clean, transform and aggregate unorganized data into databases or data sources.",4.0
+83,Denver,Data Engineer,Pie Insurance,N/A,3-5 years working in data as an engineer.,N/A
+84,Denver,Sr. Data Engineer,Conga,N/A,Design and code data pipeline features and data processing jobs for collecting automotive data from disparate systems for the purpose of storing in a data…,3.6
+85,Denver,Data Science Engineer,WorkBoard,N/A,Experience creating an Events framework to enable better data analytics.,N/A
+86,Denver,Data Engineer,Iconic Technology Group,N/A,"Experience in stream data, such as Kaf ka desired.",N/A
+87,Denver,Data Engineer Asc,LOCKHEED MARTIN CORPORATION,N/A,"Collaborate with data architects, data scientists, data analysts, and system engineers to develop a solution across the entire data processing pipeline.",4.0
+88,Denver,Business Intelligence Data Engineer,DCP Midstream,N/A,Analyzes data and makes analytical recommendations for IT management to consider as components of enterprise architecture and the roadmap development for BI…,3.5
+89,Denver,Data Engineer,Inspirato,N/A,"Experience leveraging cloud-based data platforms and tools from Azure, AWS, Google to implement data solutions.",3.5
+90,Denver,Data Engineer/Wrangler,Kaiser Permanente,N/A,Two (2) years experience working with and defining the requirements for data mart/data warehousing.,4.1
+91,Denver,Data Engineer Asc Mgr,LOCKHEED MARTIN CORPORATION,N/A,Experience applying data governance principles and working with data stewards and system owners.,4.0
+92,Denver,Supply Chain Data Engineer,CommonSpirit Health,N/A,"The supply chain data engineer builds and maintains the data pipelines that make data accessible to supply chain staff, our partners, and the larger…",2.8
+93,Hartford,Data Engineer - Healthcare,EXL Services,N/A,"Build the infrastructure for optimal extraction, transformation and loading data from a wide variety of data sources using big data technologies.",3.8
+94,Hartford,Software and Data Engineer - Telecommute,UnitedHealth Group,N/A,"Building and supporting required infrastructure for optimal extraction, transformation and loading of data from various data sources.",3.7
+95,Hartford,Data Engineer,CVS Health,N/A,Aetna data engineers work with data scientists side by side to optimize our ability to engage with members to help them make better healthcare decisions via…,3.3
+96,Hartford,Data Engineer,The Hartford,N/A,"Position will design, develop, and maintain large scale data assets across data warehouses, data marts, and data processes, leveraging next generation data and…",3.7
+97,Hartford,Sr Data Engineer,The Hartford,N/A,Strong data warehouse applications knowledge in financial/insurance domain.,3.7
+98,Hartford,Data Engineer Analyst / Developer,Travelers,N/A,"Understand core data management competencies - data governance, data security, data quality.",3.7
+99,Hartford,Data Engineer,Slalom Consulting,N/A,You bring 3+ years of data engineering and/or data warehousing experience.,3.7
+100,Hartford,End User Data Engineer - SQL - Telecommute,UnitedHealth Group,N/A,"3+ years of experience using various data models (Star Schema, Hierarchical and Relational).",3.7
+101,Hartford,Data Engineer,Travelers,N/A,Creates moderate (technology and features) data visualization techniques to help support data exploration.,3.7
+102,Hartford,Lead Data Engineer,CVS Health,N/A,Nothing_found,3.3
+103,Hartford,"AWS Data Engineer, Bloomfield, CT; New York, NY; Lafayette,IN - Fulltime",Progneur Technologies,N/A,Working to integrate open source components into data-analytic solutions.,N/A
+104,Hartford,Senior Data Engineer - Operations Data and Analytics,Travelers,N/A,This position will work with data across many Travelers' systems to create strategic data solutions in public cloud as well as on-premise environments.,3.7
+105,Hartford,Data Engineer,LEGO,N/A,Experience with data visualization tools and crafting data visualization concepts.,4.2
+106,Hartford,Sr. Data Engineer / Sr. Data Modeler,The Hartford,N/A,Familiarity of data mining software and tools for analysis of large amounts of data to identify business data relationships and data patterns;,3.7
+107,Hartford,Talend Data Migration Engineer,Accenture,N/A,"Develop data ingestion, data processing, and analytical pipelines for big data, data warehouses, relational, and NoSQL data solutions.",4.0
+108,Atlanta,Data Engineer I/II,DriveCentric,"Atlanta, GA",Onboard new customers by scrubbing data and importing from multiple data sources.,4.0
+109,Atlanta,Big Data Engineer,"Open Systems, Inc.","Atlanta, GA","3+ years of experience building, testing, and optimizing ‘Big Data’ data ingestion pipelines, architectures and data sets.",N/A
+110,Atlanta,Data Engineer,TargetCW,"Atlanta, GA","Maintain a high level of trust in these data sets: keep existing data sources fresh against changing requirements, definitions, and data quality issues.",3.7
+111,Atlanta,Data Engineer,Intercontinental Exchange,N/A,"Experience in data analysis, data cleansing, and data transformation (parsing, mapping, and serialization processes).",3.4
+112,Atlanta,Analyst - Data Engineer (December 2020 - May 2021 Graduates),McKinsey & Company,N/A,"In this role, you will be a hands-on technologist who connects and models complex distributed data sets to build repositories such as data warehouses and data…",4.3
+113,Atlanta,Data Engineer,Advanced Tech Placement,N/A,"The ideal candidate is an experienced data engineer with strong Python skills, who enjoys optimizing data systems and building internal data pipelines/APIs from…",N/A
+114,Atlanta,Data Engineer (x2 Openings),Rev.io,N/A,"Gain exposure to large customer data sets involved in product migrations, and responsible for helping data flow into Rev.io from legacy customer systems.",N/A
+115,Atlanta,Digital Data Engineer,Synovus,N/A,Designs data integrations and data quality framework and works closely with internal partners to develop strategy for long term data platform architecture.,3.4
+116,Atlanta,Junior Data Engineer (AWS),Invesco,N/A,"1-2 years of experience in data modeling, data warehousing, and big data architectures.",3.9
+117,Atlanta,Sr. Data Engineer 10+ yrs Required,Digital Dhara,N/A,Should be able to configure pipelines to ingest data from data sources to the data platform.,N/A
+118,Atlanta,Data Engineer,Expedite Technologies Solutions,N/A,Big data: 4 years (Required).,N/A
+119,Atlanta,Data Engineer,Agile,N/A,Experience working with web data sources.,3.8
+120,Atlanta,Data Engineer,Deloitte,N/A,"3+ years data engineering, data management and transformation experience.",4.0
+121,Atlanta,Junior Data Engineer,Invesco,N/A,Experience in data warehousing concepts.,3.9
+122,Atlanta,Data Engineer,Honeywell,N/A,"Dive deep into data to uncover trends, data quality, and data completeness.",3.7

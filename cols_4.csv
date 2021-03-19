@@ -1,0 +1,122 @@
+,city,job_title,company_name,location
+1,Raleigh,Senior Data Center Engineer (Automation),Altran,"Morrisville, NC 27560"
+2,Raleigh,"Dev Ops Data Engineer - Research Triangle Park, NC",BASF Corporation,"Research Triangle Park, NC 27709"
+3,Raleigh,"Dev Ops Data Engineer - Research Triangle Park, NC",BASF,"Research Triangle Park, NC 27709"
+4,Raleigh,Data Engineer,ProVantage Corporate Solutions,"Raleigh, NC"
+5,Raleigh,Data Engineer,Piper Companies,N/A
+6,Raleigh,Data Engineer - Data Warehouse - Entry Level,Pearson,N/A
+7,Raleigh,Big Data Engineer,DISYS,"Cary, NC"
+8,Raleigh,"Data Ops Engineer, ENTRY LEVEL",Pearson,N/A
+9,Raleigh,Data Engineer,PennyMac,N/A
+10,Raleigh,Data Engineer- 100% Remote,Advanced Tech Placement,N/A
+11,Raleigh,Data Engineer Intern,AlignTech,N/A
+12,Raleigh,Data Engineer,IBM,N/A
+13,Raleigh,Data Engineer,Carimus,N/A
+14,Raleigh,Data Engineer - 303426,Procom,"Durham, NC 27713"
+15,Raleigh,Data Engineer,VICTRA,N/A
+16,Boston,Data Science Engineer - Pharma Manufacturig Sci,Takeda Pharmaceuticals,N/A
+17,Boston,Entry Level Data Engineer (AI Applications),IBM,N/A
+18,Boston,Data Engineer,Oxfam America,N/A
+19,Boston,Data Engineer (C2),Clarity Innovations,N/A
+20,Boston,Data Engineer,Intone Networks,N/A
+21,Boston,Data Engineer,Uplight,N/A
+22,Boston,Data Engineer 2,Kagr Llc,N/A
+23,Boston,Data Engineer,"Commonwealth Equity Services, Inc.",N/A
+24,Boston,Data Engineer - Personalization (Remote Eligible - Americas),Spotify,N/A
+25,Boston,"Data Engineer (EDW, Data Analytics Office)",Mass General Brigham(PHS),N/A
+26,Boston,"Data Engineer, Health",Syneos Health Commercial Solutions,N/A
+27,Boston,Data Engineer,"Zipcar, Inc.",N/A
+28,Boston,Data Engineer (Collection),Recorded Future,N/A
+29,Boston,Data Engineer,Recorded Future,N/A
+30,Boston,Data Scientist / Engineer,Harvard University,N/A
+31,Portland,Data Engineer,Perfect Company,"Portland, OR"
+32,Portland,Data Engineer,North Highland,"Portland, OR"
+33,Portland,Data Engineer - Azure,OmniData Insights,"Portland, OR 97201 (Homestead area)"
+34,Portland,Data Engineer,Gametime,"Portland, OR"
+35,Portland,Data and Analytics Engineer (Phoenix or Portland location),"Tokyo Electron America, Inc.","Hillsboro, OR"
+36,Portland,Sr. Data Engineer,"BizTek People, Inc.","Portland, OR 97204 (Downtown area)"
+37,Portland,Data Engineer,VanderHouwen,"Hillsboro, OR"
+38,Portland,Data Operations Engineer PSJH,Providence,N/A
+39,Portland,Data Engineer,Nectar Markets,N/A
+40,Portland,Data Analyst/Data Scientist Engineer (Portland / Remote) — Cascade Data Labs,Kin + Carta,N/A
+41,Portland,NextGen Data Engineer,BICP,N/A
+42,Portland,Data Engineer,Slalom Consulting,N/A
+43,Portland,Data Engineer,KEEN Footwear,N/A
+44,Portland,Data Science Engineer,WorkBoard,N/A
+45,Portland,Specialist Data Engineer,HP,N/A
+46,San+Diego,"Software Engineer 2, Big Data",Intuit,"San Diego, CA 92101"
+47,San+Diego,Data Engineer,Itility,"San Diego, CA"
+48,San+Diego,"Product Support Engineer, Cloud and Data Analytics",Teradata,"San Diego, CA"
+49,San+Diego,Senior Data Engineer,Epsilon,"San Diego, CA 92121 (Sorrento Valley area)"
+50,San+Diego,JUNIOR Data Engineer,CCS Global Tech,N/A
+51,San+Diego,Data Engineer,Sony Interactive Entertainment PlayStation,N/A
+52,San+Diego,"Software Engineer 2, Big Data",Intuit,N/A
+53,San+Diego,Intern - Data Engineer,Teradata,N/A
+54,San+Diego,Staff Data Engineer,Illumina,N/A
+55,San+Diego,"Python/SQL Data Engineer, Consultant - Applied Artificial Intelligence",Deloitte,N/A
+56,San+Diego,Senior Data Engineer,AVID Center,N/A
+57,San+Diego,Data and Analytics - Release Train Engineer,ASML,N/A
+58,San+Diego,Data Engineer,TCS,N/A
+59,San+Diego,Data Engineer ONLY W2 NO C2C,Park Computer Systems Inc,N/A
+60,San+Diego,Data and Analytics - Release Train Engineer,ASML,"San Diego, CA 92127 (Rancho Bernardo area)"
+61,San+Diego,"Staff Software Engineer, Big Data",Intuit,"San Diego, CA 92101"
+62,Dallas,Senior Data Analytics Engineer,Christus Health,"Irving, TX 75038 (Cottonwood area)"
+63,Dallas,Data Engineer,Brinks Home Security,"Farmers Branch, TX 75234"
+64,Dallas,Senior Data Engineer,Kaygen,"Dallas, TX"
+65,Dallas,Sr. Data Engineer,Computech corporation,"Plano, TX"
+66,Dallas,CW Sr Data Engineer,BEPC Inc,"Plano, TX 75024"
+67,Dallas,Data Engineer,LOCKHEED MARTIN CORPORATION,N/A
+68,Dallas,Senior Data Engineer,mroads,N/A
+69,Dallas,Big Data Engineer,Cigniti Technologies,N/A
+70,Dallas,Data Engineer,Next Level Technology Inc.,N/A
+71,Dallas,Big Data Support Engineer,"Amazon Web Services, Inc.",N/A
+72,Dallas,Data Engineer,TCS,N/A
+73,Dallas,Data Engineer,GridironFB.com,N/A
+74,Dallas,Performance Assurance Engineer RF + Data Analytics,GTA Telecom,N/A
+75,Dallas,Data Engineer,HHAeXchange,N/A
+76,Dallas,Data Engineer,Caprus IT,N/A
+77,Denver,Junior Data Engineer,AimHire,"Denver, CO"
+78,Denver,Senior Data Engineer,Alto Pharmacy,"Denver, CO 80203 (Civic Center area)"
+79,Denver,Data Engineer,TEKsystems,"Greenwood Village, CO 80110"
+80,Denver,Data Center Engineer I,"JPMorgan Chase Bank, N.A.",N/A
+81,Denver,Data Engineer,Pie Insurance,N/A
+82,Denver,Data Engineer,LOCKHEED MARTIN CORPORATION,N/A
+83,Denver,Sr. Data Engineer,Conga,N/A
+84,Denver,Data Science Engineer,WorkBoard,N/A
+85,Denver,Data Engineer Asc,LOCKHEED MARTIN CORPORATION,N/A
+86,Denver,Business Intelligence Data Engineer,DCP Midstream,N/A
+87,Denver,Cloud Data Engineer,Slalom Consulting,N/A
+88,Denver,Data Engineer,Inspirato,N/A
+89,Denver,Data Visualization Engineer,"VIZIO, Inc.",N/A
+90,Denver,Data Engineer,Iconic Technology Group,N/A
+91,Denver,Data Engineer,DISH Network,N/A
+92,Hartford,Data Engineer - Healthcare,EXL Services,N/A
+93,Hartford,Software and Data Engineer - Telecommute,UnitedHealth Group,N/A
+94,Hartford,Data Engineer,The Hartford,N/A
+95,Hartford,Data Engineer,CVS Health,N/A
+96,Hartford,Sr Data Engineer,The Hartford,N/A
+97,Hartford,Data Engineer,Slalom Consulting,N/A
+98,Hartford,Data Engineer Analyst / Developer,Travelers,N/A
+99,Hartford,End User Data Engineer - SQL - Telecommute,UnitedHealth Group,N/A
+100,Hartford,Data Engineer,Travelers,N/A
+101,Hartford,"AWS Data Engineer, Bloomfield, CT; New York, NY; Lafayette,IN - Fulltime",Progneur Technologies,N/A
+102,Hartford,Talend Data Migration Engineer,Accenture,N/A
+103,Hartford,Data Engineer,LEGO,N/A
+104,Hartford,Senior Data Engineer - Operations Data and Analytics,Travelers,N/A
+105,Hartford,Sr. Data Engineer / Sr. Data Modeler,The Hartford,N/A
+106,Hartford,Lead Data Engineer,CVS Health,N/A
+107,Atlanta,Data Engineer I/II,DriveCentric,"Atlanta, GA"
+108,Atlanta,Big Data Engineer,"Open Systems, Inc.","Atlanta, GA"
+109,Atlanta,Network Engineer - Data Telecom,Skiltrek,"Atlanta, GA"
+110,Atlanta,Data Engineer,TargetCW,"Atlanta, GA"
+111,Atlanta,Data Engineer,Intercontinental Exchange,N/A
+112,Atlanta,Digital Data Engineer,Synovus,N/A
+113,Atlanta,Analyst - Data Engineer (December 2020 - May 2021 Graduates),McKinsey & Company,N/A
+114,Atlanta,Junior Data Engineer,Invesco,N/A
+115,Atlanta,Data Engineer (x2 Openings),Rev.io,N/A
+116,Atlanta,Data Engineer,Advanced Tech Placement,N/A
+117,Atlanta,Data Engineer,Expedite Technologies Solutions,N/A
+118,Atlanta,Junior Data Engineer (AWS),Invesco,N/A
+119,Atlanta,Sr. Data Engineer 10+ yrs Required,Digital Dhara,N/A
+120,Atlanta,Data Engineer,Agile,N/A
+121,Atlanta,Data Engineer,Honeywell,N/A
